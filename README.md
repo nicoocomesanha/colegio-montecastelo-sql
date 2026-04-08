@@ -8,7 +8,7 @@ El objetivo es administrar de forma eficiente la información de alumnos, ciclos
 ---
 
 ## 🗺️ Diseño Lógico (Modelo Entidad-Relación)
-![Modelo Entidad Relación](./diagrama.png)
+![Modelo Entidad Relación](./Diagrama.png)
 
 La base de datos está diseñada siguiendo principios de normalización para evitar redundancias. 
 
